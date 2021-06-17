@@ -1,6 +1,6 @@
- #O app
+ # O app
  
- ###O usuário pode:
+ ### O usuário pode:
  
  -Abrir chamados;
  -Ver somente o próprio;
@@ -8,7 +8,7 @@
  -Mandar mensagens nos chamados;
  -Finalizar chamados;
  
- ###O Administrador pode:
+ ### O Administrador pode:
  
  -Ver chamados;
  -Mandar mensagens nos chamados;
