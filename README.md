@@ -10,11 +10,11 @@
  
  ### O Administrador pode:
  
- -Ver chamados;
- -Mandar mensagens nos chamados;
- -Ver lista de usuários;
- -Excluir chamados;
- -Finalizar chamados;
+ - Ver chamados;
+ - Mandar mensagens nos chamados;
+ - Ver lista de usuários;
+ - Excluir chamados;
+ - Finalizar chamados;
  
  ## Na pasta controllers, abra o arquivo database.php: 
  
