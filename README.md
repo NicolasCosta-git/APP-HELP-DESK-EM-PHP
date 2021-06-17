@@ -2,11 +2,11 @@
  
  ### O usuário pode:
  
- -Abrir chamados;
- -Ver somente o próprio;
- -Editar perfil;
- -Mandar mensagens nos chamados;
- -Finalizar chamados;
+ - Abrir chamados;
+ - Ver somente o próprio;
+ - Editar perfil;
+ - Mandar mensagens nos chamados;
+ - Finalizar chamados;
  
  ### O Administrador pode:
  
