@@ -1,6 +1,8 @@
-create database HelpDesk
+create database HelpDesk;
+go;
 
-use HelpDesk
+use HelpDesk;
+go
 
 create table Users(
 id int identity,
@@ -9,7 +11,7 @@ email varchar(50) not null,
 password varchar(100) not null,
 avatar varchar(600) null,
 primary key(id)
-)
+);
 
 create table Calls(
 id int identity,
@@ -22,7 +24,7 @@ createdAt varchar(30) null,
 closedAt varchar(30) null,
 primary key(id),
 foreign key(userId) references Users(id) on delete cascade
-)
+);
 
 create table Messages(
 id int identity,
@@ -32,6 +34,6 @@ message text not null,
 primary key(id),
 foreign key(userId) references Users(id),
 foreign key(callId) references Calls(id) on delete cascade
-)
+);
 
  
