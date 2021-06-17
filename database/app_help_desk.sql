@@ -1,5 +1,5 @@
 create database HelpDesk;
-go;
+go
 
 use HelpDesk;
 go
