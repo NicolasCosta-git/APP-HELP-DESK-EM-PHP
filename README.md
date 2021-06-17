@@ -2,6 +2,7 @@
  
  ### O usuário pode:
  
+ - Criar conta;
  - Abrir chamados;
  - Ver somente o próprio;
  - Editar perfil;
