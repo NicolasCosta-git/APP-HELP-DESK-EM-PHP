@@ -17,6 +17,9 @@
  - Excluir chamados;
  - Finalizar chamados;
  
+ ### Instale o driver do SQLServer e ative-o no php.ini
+-link do driver: https://www.microsoft.com/en-us/download/details.aspx?id=20098
+ 
  ## Na pasta controllers, abra o arquivo database.php: 
  
  #### Use o script para a criação do banco de dados que está localizado dentro da pasta database.
