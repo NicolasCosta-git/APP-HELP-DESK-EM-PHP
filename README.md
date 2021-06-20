@@ -18,7 +18,7 @@
  - Finalizar chamados;
  
  ### Instale o driver do SQLServer e ative-o no php.ini
--link do driver: https://www.microsoft.com/en-us/download/details.aspx?id=20098
+- link do driver: https://www.microsoft.com/en-us/download/details.aspx?id=20098
  
  ## Na pasta controllers, abra o arquivo database.php: 
  
